@@ -35,9 +35,9 @@ require 'header.php';
 			<img src="cup/lorem.jpg" alt=""  class="img-responsive"/>
 		</div>
 		<div class="col-md-6">
-		     <h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h4>
-		     <p class="para">Lorem Ipsum is simply dummy text of the printing and typesetting industry., Lorem Ipsum  dummy text ever since dummy text of the printing and usings 1500s,Duis aute irure dolor in reprehenderit in voluptate velit esse when an,Lorem Ipsum has been the industry's standard dummy text ever since dummy text of the printing and usings 1500s, </p>
-		     <p class="para">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+		     <h4>Mauka for every team to defeat India in ICC World Cup 2015. Support India and have fun this world cup. </h4>
+		     <p class="para">"MaukaMauka" follows the the theme that every cricket team has a "mauka" a chance or an oppurtunity in hindi to win against the the indian cricket team but this so called oppurtunity belies what it implies ,highly popular among the fans of the india cricket team the phrase maukamauka from its inception in the TVC has been used to support their team cuch that other teams will keep getting maukas to win against india but will ultimately prove to be mediocre at best against india, </p>
+		     <p class="para"></p>
 			<div class="read_more">
 				<a href="single.php"><button class="btn_style">view more</button></a>
 			</div>
@@ -45,9 +45,9 @@ require 'header.php';
 		<div class="clearfix"></div>
 		<br>
 		<div class="about_p col-md-9">
-		 	<p class="para">Lorem Ipsum is simply dummy text of the printing and typesetting industry., Lorem Ipsum  dummy text ever since dummy text of the printing and usings 1500s,Duis aute irure dolor in reprehenderit in voluptate velit esse when an,Lorem Ipsum has been the industry's standard dummy text ever since dummy text of the printing and usings 1500s, </p>
-			<p class="para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since dummy text of the printing and usings 1500s,Duis aute irure dolor in reprehenderit in voluptate velit Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since dummy text of the printing and usings 1500s,Duis aute irure dolor in reprehenderit in voluptate velit</p>
-			<p class="para">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+		 	<p class="para">we ,being india supporters are driving this campaign further on this here you'll find all the content related to the maukamauka campaign and indian cricket team be it news ,videos and yes ofcourse jokes ,you'll also find exclusive makukamauka merchandise on this website </p>
+			<p class="para">that's not all folks ,brace yourselves beacuse here comes the fun part ,you also get a platform here to interact with today's biggest and leading sport stars and ask them your queries and their opinions on cricket ,maukamauka and what not ,</p>
+			<p class="para"></p>
 		</div>
 	</div><!-- end about -->
 </div>

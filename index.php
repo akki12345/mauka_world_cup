@@ -262,6 +262,44 @@ require 'header.php';
             </div>
           </div>
         </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme10.jpg" alt="...">            
+
+            <div class="ts-overlay-panel ts-overlay-background"><p>#MaukaMauka</p></div>
+                                    <a class="ts-position-cover" href="talk.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>Chase To Mauka</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme11.jpg" alt="...">            
+
+            <div class="ts-overlay-panel ts-overlay-background"><p>#MaukaMaukaOfficial</p></div>
+                                    <a class="ts-position-cover" href="talk.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>Bol Mauka Mauka</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
           <div class="col-sm-6 col-md-3">
           <div class="thumbnail">
 
