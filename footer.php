@@ -17,7 +17,7 @@
       <li><a href="">Facebook</a></li>
       <li><a href="">Twitter</a></li>
       <li><a href="">Google+</a></li>
-      <li><a href="">Pinterest</a></li>
+      
     </ul>
   </div>
   <div class="col-md-4">
@@ -49,9 +49,66 @@
       <ul class="list-inline">
         <li><a href="">About Us</a></li>
         <li><a href="">Contact Us</a></li>
-        <li><a href="">Terms</a></li>
-        <li><a href="">Privacy Policy</a></li>
+        <li><a data-toggle="modal" href="#myModal">Terms</a></li>
+        <li><a data-toggle="modal" href="#myModal1">Privacy Policy</a></li>
       </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="myModalLabel">Terms of Service</h4>
+      </div>
+      <div class="modal-body">
+        <p>By using the content on this website (the "Content") you agree to the full terms set herein.</p>
+          <p>All rights in the Content, including the copyright therein, are owned and reserved by MaukaMaukaOfficial. You are entitled only to display the Content on your screen for personal, educational and informational purposes only. Material contained in the Content may not be duplicated or redistributed without the prior written consent of MaukaMaukaOfficial.</p>
+            <p>The Content is provided “as is” without warranty of any kind. MaukaMaukaOfficial does not make any warranty whatsoever as to the accuracy or completeness of the Content or the results to be obtained from using the Content and MaukaMaukaOfficial
+             will not be responsible for any claims attributable to errors, omissions, or other inaccuracies in the information contained therein. The entire risk for the results and performance of the Content is assumed by the user. In no event will MaukaMaukaOfficial be liable for direct, indirect, special, incidental, or consequential damages arising out of the use of or inability to use the Content or for any loss or damage of any nature caused to any person as a result of that use.</p>
+      </div>
+      <div class="blog-footer">
+        <p>MaukaMaukaOfficial © 2015</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="myModalLabel">Privacy Policy</h4>
+      </div>
+      <div class="modal-body">
+        <p>Information is collected from you when you fill the feedback form.The information collected from you is used in the following ways:
+
+        <ul>
+          <li>To personalize user's experience</li>
+<li>To improve the website</li>
+<li>To improve customer service</li></ul>
+</p>
+
+
+
+<p>We do not use cookies for tracking purposes however we do use Google analytics. The server on which this web site is hosted also records the IP address and surfing activity. At no time and under no circumstance is any available personally identifiable information of the users is shared with 3rd parties for commercial gain.</p>
+
+
+
+
+
+
+
+
+
+      </div>
+      <div class="blog-footer">
+        <p>MaukaMaukaOfficial © 2015</p>
+      </div>
     </div>
   </div>
 </div>
@@ -60,20 +117,8 @@
 <!-- Bootstrap core JavaScript
     ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="./Streampro - Streaming Media Theme - by Themestrap_files/jquery.min.js"></script>
-
-<script src="./Streampro - Streaming Media Theme - by Themestrap_files/bootstrap.min.js"></script>
-
-<!-- Load Custom JS -->
-
-<script src="./Streampro - Streaming Media Theme - by Themestrap_files/main.min.js"></script>
-
-<!-- Load Picker JS -->
-
-<script src="./Streampro - Streaming Media Theme - by Themestrap_files/jquery.fs.picker.js"></script>
-
-<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-<script src="./Streampro - Streaming Media Theme - by Themestrap_files/ie10-viewport-bug-workaround.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script> 
+<script src="js/bootstrap.min.js"></script>
 
 
 <script type="text/javascript">

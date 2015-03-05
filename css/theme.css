@@ -19,7 +19,24 @@ header {
     background-size:cover;
     -o-background-size:cover
 }
+.blog-footer {
+  font-size: 15px;
+  padding: 40px 0;
+  color: #6B6B6B;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #E6E6E6;
+}
 
+
+.blog-description {
+  font-size: 20px;
+  color: #6E6E6E;
+}
+
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
 header:before {
     position:absolute;
     left:0;
