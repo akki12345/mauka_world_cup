@@ -12,7 +12,7 @@ require 'header.php';
           <li><a href="#" data-tooltip="coming soon">ICC World Cup</a></li>
       <li><a href="#" data-tooltip="coming soon">UEFA</a></li>
       <li><a href="#" data-tooltip="coming soon">La Liga</a></li>
-      <li><a href="blog.php">Talk To Star Players</a></li>
+      <li><a href="talk.php">Talk To Star Players</a></li>
       <li class="active"><a href="news.php">Blogs/News</a></li>
 
     </ul>
