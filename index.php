@@ -32,6 +32,26 @@ require 'header.php';
           <h4>MaukaMaukaOfficial <small class="pull-right text-muted"> </small></h4>
         </div>
 
+            <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/west.jpg" alt="...">            
+
+            <div class="ts-overlay-panel ts-overlay-background"><p>Watch #MaukaMauka India Vs Wi </p></div>
+                                    <a class="ts-position-cover" href="video.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>WestIndies ka #Mauka</a></h5>
+              <ul class="list-unstyled">
+                 <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
        <div class="col-sm-6 col-md-3">
           <div class="thumbnail">
 
@@ -197,7 +217,45 @@ require 'header.php';
 
             </div>
             <div class="caption">
-              <h5><a>ShiKhar Dhawan Ka jeena jeena</a></h5>
+              <h5><a>Dhawan Ka jeena jeena</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme10.jpg" alt="...">            
+
+            <div class="ts-overlay-panel ts-overlay-background"><p>#MaukaMauka</p></div>
+                                    <a class="ts-position-cover" href="talk.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>Chase To Mauka</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme11.jpg" alt="...">            
+
+            <div class="ts-overlay-panel ts-overlay-background"><p>#MaukaMaukaOfficial</p></div>
+                                    <a class="ts-position-cover" href="talk.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>Bol Mauka Mauka</a></h5>
               <ul class="list-unstyled">
                 <li>#MaukaMaukaofficial</li>
               </ul>
@@ -236,7 +294,10 @@ require 'header.php';
 <h3 class="title">Featured Vidoes</h3>
 <div class="widget-content">
 
-<script src="./5 True Facts about Android!-Videoism_files/Feature"></script><ul class="recent_posts_with_thumbs"><li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/C3KuJKNFFjU">
+<script src="./5 True Facts about Android!-Videoism_files/Feature"></script><ul class="recent_posts_with_thumbs">
+<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/eFS1ikcvLdI">
+</iframe></a></div><b><a href="video.php" target="_top">Mauka Mauka – INDIA Vs West INDIES #WontGiveItBack</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
+<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/C3KuJKNFFjU">
 </iframe></a></div><b><a href="video.php" target="_top">Sikh Boy Bullied By Racist Kids Calling Him A Terrorist</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
 <li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/gtSSxgBayyk">
 </iframe></a></div><b><a href="video.php" target="_top">Mauka Mauka Counter Strike Edition</a></b><br><div style="float:left;padding-top: 5px;"></div></li>

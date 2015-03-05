@@ -25,6 +25,11 @@ require 'header.php';
   <!--left-->
   <div class="col-sm-3">
         <h2>Featured Comment</h2>
+          <div class="panel panel-default">
+          <div class="panel-heading">MaukaMauka</div>
+          <div class="panel-body">The ‘Mauka’ to beat India in the ICC Cricket World Cup 2015 has become an ‘Elusive Maukaa’ for the teams in Pool B. After India beat Pakistan, South Africa, and United Arab Emirates (UAE) in their first three encounters, it is now West Indies’ Mauka to try and beat India first time in the World Cup 2015.</div>
+        </div>
+        <hr>
     	<div class="panel panel-default">
          	<div class="panel-heading">MaukaMauka</div>
          	<div class="panel-body">Indian Team us Kaminey dost ki tarah hai,Jo,
@@ -54,6 +59,20 @@ replied jab hamne banane hi sau run hai toh 400 run ki fielding kyo karen, yhi h
   
   <!--center-->
   <div class="col-sm-6">
+     <div class="row">
+      <div class="col-xs-12">
+        <h2>‘Mauka Mauka’ on IPL, Chris Gayle and India-WI clash.</h2>
+        <p>            
+          In some way, it is also building up to the Indian Premier League (IPL) starting in April. But the humour lies in the fact how West Indian cricketers depend on IPL to earn their living.
+
+Or maybe it meant: “You better stick to IPL. World Cup is our game.”
+        </p>
+        <p class="lead"><button class="btn btn-default">Read More</button></p>
+        <p class="pull-right"><span class="label label-default">WI-clash</span> <span class="label label-default">MaukaMauka</span></p>
+        <ul class="list-inline"><li><a href="#">1 day Ago</a></li>
+      </div>
+    </div>
+    <hr>
     <div class="row">
       <div class="col-xs-12">
         <h2>Again 300 plus scored and easily chased by Bangladesh.</h2>
