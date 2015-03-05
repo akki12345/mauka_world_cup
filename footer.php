@@ -25,13 +25,14 @@
     <p>
       Don't worry we hate spam too.
     </p>
-    <form class="panel" action="subscription.php" method="POST">
+    <form class="panel" action="subscribe.php" method="POST">
       <div class="form-group panel-body">
-        <label for="exampleInputEmail1">Email address</label>
-        <input type="email" name="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+        <label for="sub">Email address</label>
+        <input type="email" name="sub" id = "sub"  class="form-control"  placeholder="Enter email">
+         <div id="div1"></div>
       </div>
       <div class="panel-footer">
-        <button type="submit" name="submit" class="btn btn-success btn-block">Subscribe</button>
+        <a type="button" class="btn btn-success btn-block" onclick="PostData()">Subscribe</a>
       </div>
     </form>
   </div>
@@ -123,6 +124,40 @@
 
 <script type="text/javascript">
 $("input[type=radio], input[type=checkbox]").picker();
+</script>
+<script type="text/javascript">
+function PostData() {
+    // 1. Create XHR instance - Start
+    var xhr;
+    if (window.XMLHttpRequest) {
+        xhr = new XMLHttpRequest();
+    }
+    else if (window.ActiveXObject) {
+        xhr = new ActiveXObject("Msxml2.XMLHTTP");
+    }
+    else {
+        throw new Error("Ajax is not supported by this browser");
+    }
+    // 1. Create XHR instance - End
+    
+    // 2. Define what to do when XHR feed you the response from the server - Start
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4) {
+            if (xhr.status == 200 && xhr.status < 300) {
+                document.getElementById('div1').innerHTML = xhr.responseText;
+            }
+        }
+    }
+    // 2. Define what to do when XHR feed you the response from the server - Start
+
+    var sub = document.getElementById("sub").value;
+
+    // 3. Specify your action, location and Send to the server - Start 
+    xhr.open('POST', 'subscribe.php');
+    xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    xhr.send('sub=' + sub);
+    // 3. Specify your action, location and Send to the server - End
+}
 </script>
 
 </body></html>
