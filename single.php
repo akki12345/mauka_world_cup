@@ -3,6 +3,20 @@ require 'header.php';
 ?>
 <!-- ./ Secondary Navbar  -->
 <!--  Start Main Content (left section + right sidebar)   -->
+<nav class="navbar navbar-inverse hidden-sm hidden-xs sec-navbar">
+<div class="container">
+  <div id="navbar" class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+      <li ><a href="#">All</a></li>
+       <li><a href="#">ICC World Cup</a></li>
+      <li><a href="#">UEFA</a></li>
+      <li><a href="#">La Liga</a></li>
+      <li class="active"><a href="single.php">Talk To Star Players</a></li>
+      <li><a href="news.php">Blogs/News</a></li>
+    </ul>
+  </div>
+</div>
+</nav>
 <section class="container">
 <div class="row">
 <div class="col-md-12">

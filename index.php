@@ -8,11 +8,11 @@ require 'header.php';
   <div id="navbar" class="navbar-collapse collapse">
     <ul class="nav navbar-nav">
       <li class="active"><a href="#">All</a></li>
-       <li><a href="#">ICC World Cup</a></li>
-      <li><a href="#">UEFA</a></li>
-      <li><a href="#">La Liga</a></li>
-      <li><a href="single.html">Talk To Star Players</a></li>
-      <li><a href="#">Blogs/News</a></li>
+       <li><a href="#" data-tooltip="coming soon">ICC World Cup</a></li>
+      <li><a href="#" data-tooltip="coming soon">UEFA</a></li>
+      <li><a href="#" data-tooltip="coming soon">La Liga</a></li>
+      <li><a href="single.php">Talk To Star Players</a></li>
+      <li><a href="news.php">Blogs/News</a></li>
     </ul>
   </div>
 </div>
@@ -40,7 +40,7 @@ require 'header.php';
            <img src="./cup/meme.jpg" alt="Lorem Ipsum">            
 
             <div class="ts-overlay-panel  ts-overlay-background"><p>Watch Our video</p></div>
-                                    <a class="ts-position-cover" href="video.html"></a>
+                                    <a class="ts-position-cover" href="video.php"></a>
 
             </div>
             <div class="caption">
@@ -60,7 +60,7 @@ require 'header.php';
            <img src="./cup/meme1.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>Watch Our Video</p></div>
-                                    <a class="ts-position-cover" href="video.html"></a>
+                                    <a class="ts-position-cover" href="video.php"></a>
 
             </div>
             <div class="caption">
@@ -79,7 +79,7 @@ require 'header.php';
            <img src="./cup/meme2.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>Talk To Sachin Tendulker</p></div>
-                                    <a class="ts-position-cover" href="single.html"></a>
+                                    <a class="ts-position-cover" href="single.php"></a>
 
             </div>
             <div class="caption">
@@ -98,7 +98,7 @@ require 'header.php';
            <img src="./cup/meme3.jpg" alt="...">            
 
             <div class="ts-overlay-panel  ts-overlay-background"><p>Talk To MS Dhoni</p></div>
-                                    <a class="ts-position-cover" href="single.html"></a>
+                                    <a class="ts-position-cover" href="single.php"></a>
 
             </div>
             <div class="caption">
@@ -117,7 +117,7 @@ require 'header.php';
            <img src="./cup/meme4.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>Watch Our Video</p></div>
-                                    <a class="ts-position-cover" href="video.html"></a>
+                                    <a class="ts-position-cover" href="video.php"></a>
 
             </div>
             <div class="caption">
@@ -136,11 +136,11 @@ require 'header.php';
            <img src="./cup/meme5.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>talk to AB De Villier</p></div>
-                                    <a class="ts-position-cover" href="single.html"></a>
+                                    <a class="ts-position-cover" href="single.php"></a>
 
             </div>
             <div class="caption">
-              <h5><a>BC Jao Kuch Kha ke Aao.</a></h5>
+              <h5><a>BC Jao Kuch kha lo</a></h5>
               <ul class="list-unstyled">
                 <li>#MaukaMaukaofficial</li>
               </ul>
@@ -155,7 +155,7 @@ require 'header.php';
            <img src="./cup/meme8.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>See Blog And News Portal</p></div>
-                                    <a class="ts-position-cover" href="single.html"></a>
+                                    <a class="ts-position-cover" href="single.php"></a>
 
             </div>
             <div class="caption">
@@ -174,7 +174,7 @@ require 'header.php';
            <img src="./cup/meme9.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>talk to ronaldo</p></div>
-                                    <a class="ts-position-cover" href="single.html"></a>
+                                    <a class="ts-position-cover" href="single.php"></a>
 
             </div>
             <div class="caption">
@@ -193,7 +193,7 @@ require 'header.php';
            <img src="./cup/meme6.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>Best Meme</p></div>
-                                    <a class="ts-position-cover" href="index.html"></a>
+                                    <a class="ts-position-cover" href="index.php"></a>
 
             </div>
             <div class="caption">
@@ -212,7 +212,7 @@ require 'header.php';
            <img src="./cup/meme7.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>Number 10</p></div>
-                                    <a class="ts-position-cover" href="index.html"></a>
+                                    <a class="ts-position-cover" href="index.php"></a>
 
             </div>
             <div class="caption">
@@ -224,7 +224,7 @@ require 'header.php';
           </div>
         </div>
       </div>
-      <a class="btn btn-link btn-block btn-lg" href="video.html">view more</a>
+      <a class="btn btn-link btn-block btn-lg" href="video.php">view more</a>
     </div>
 
 <!--  ./ Left Section  col-md-9  -->
@@ -236,16 +236,16 @@ require 'header.php';
 <h3 class="title">Featured Vidoes</h3>
 <div class="widget-content">
 
-<script src="./5 True Facts about Android!-Videoism_files/Feature"></script><ul class="recent_posts_with_thumbs"><li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.html" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/C3KuJKNFFjU">
-</iframe></a></div><b><a href="video.html" target="_top">Sikh Boy Bullied By Racist Kids Calling Him A Terrorist</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.html" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/gtSSxgBayyk">
-</iframe></a></div><b><a href="video.html" target="_top">Mauka Mauka Counter Strike Edition</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.html" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/2MYj3c1Wd6I">
-</iframe></a></div><b><a href="video.html" target="_top">3 players injured in 1 ball - Rare Epic Cricket Moment</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.html" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/pijivK5zfQA">
-</iframe></a></div><b><a href="video.html" target="_top">Baap Baap Hota hai Beta Beta</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.html" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/7VDN-yPr9as">
-</iframe></a></div><b><a href="video.html" target="_top">Shoaib Akhtar Kill Pakistani Team</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
+<script src="./5 True Facts about Android!-Videoism_files/Feature"></script><ul class="recent_posts_with_thumbs"><li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/C3KuJKNFFjU">
+</iframe></a></div><b><a href="video.php" target="_top">Sikh Boy Bullied By Racist Kids Calling Him A Terrorist</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
+<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/gtSSxgBayyk">
+</iframe></a></div><b><a href="video.php" target="_top">Mauka Mauka Counter Strike Edition</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
+<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/2MYj3c1Wd6I">
+</iframe></a></div><b><a href="video.php" target="_top">3 players injured in 1 ball - Rare Epic Cricket Moment</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
+<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/pijivK5zfQA">
+</iframe></a></div><b><a href="video.php" target="_top">Baap Baap Hota hai Beta Beta</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
+<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/7VDN-yPr9as">
+</iframe></a></div><b><a href="video.php" target="_top">Shoaib Akhtar Kill Pakistani Team</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
 
 </div>
 <div class="clear"></div>
@@ -255,7 +255,7 @@ require 'header.php';
 <p></p></div>
       </ul>
       <div class="">
-        <a class=" btn-link btn-sm pull-right" href="video.html">View More Videos</a>
+        <a class=" btn-link btn-sm pull-right" href="video.php">View More Videos</a>
       </div>
     </div>
   </div>
