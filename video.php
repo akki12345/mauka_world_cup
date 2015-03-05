@@ -28,16 +28,16 @@
   <!-- Collect the nav links, forms, and other content for toggling -->
   <div class="collapse navbar-collapse" id="navbar-brand-centered">
     <ul class="nav navbar-nav navbar-right">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="#">About Us</a></li>
-      <li><a href="#">Blogs</a></li>
+      <li><a href="index.php">Home</a></li>
+      <li><a href="about.php">About Us</a></li>
+      <li><a href="blog.php">Blogs</a></li>
     </ul>
   </div>
   <!-- /.navbar-collapse -->
 </div>
 <!-- /.container-fluid -->
 </nav>
-<div id="wrapper">
+<div id="wrapper"><br><br>
 <div id="container-main">
 <div id="main-wrapper">
 <div class="main section" id="main"><div class="widget Blog" id="Blog1">
@@ -52,9 +52,9 @@
 <div class="wrapfullpost">
 <div class="post hentry">
 <a name="2838817585187719172"></a>
-<div class="post-header-line-1"></div>
 <div class="post-body entry-content">
-<iframe width="662" height="320" src="./5 True Facts about Android!-Videoism_files/1gUQhN5joSQ.html" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="660" height="350" src="http://www.youtube.com/embed/C3KuJKNFFjU">
+</iframe>
 <h2 class="post-title entry-title">
 <a href="./5 True Facts about Android!-Videoism_files/5 True Facts about Android!-Videoism.html">5 True Facts about Android!</a>
 </h2>
@@ -139,8 +139,17 @@ var showpostdate = true;
 var showpostsummary = true;
 var numchars = 75;
 </script>
+<script src="./5 True Facts about Android!-Videoism_files/Feature"></script><ul class="recent_posts_with_thumbs"><li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="120" height="90" src="http://www.youtube.com/embed/C3KuJKNFFjU">
+</iframe></a></div><b><a href="video.php" target="_top">Sikh Boy Bullied By Racist Kids Calling Him A Terrorist</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
+<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="120" height="90" src="http://www.youtube.com/embed/gtSSxgBayyk">
+</iframe></a></div><b><a href="video.php" target="_top">Mauka Mauka Counter Strike Edition</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
+<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="120" height="90" src="http://www.youtube.com/embed/2MYj3c1Wd6I">
+</iframe></a></div><b><a href="video.php" target="_top">3 players injured in 1 ball - Rare Epic Cricket Moment</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
+<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="120" height="90" src="http://www.youtube.com/embed/pijivK5zfQA">
+</iframe></a></div><b><a href="video.php" target="_top">Baap Baap Hota hai Beta Beta</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
+<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="120" height="90" src="http://www.youtube.com/embed/7VDN-yPr9as">
+</iframe></a></div><b><a href="video.php" target="_top">Shoaib Akhtar Kill Pakistani Team</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
 
-<script src="./5 True Facts about Android!-Videoism_files/Feature"></script><ul class="recent_posts_with_thumbs"><li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="http://videoismtheme.blogspot.com/2013/07/5-true-facts-about-android.html" target="_top"><img class="recent_thumb" src="./5 True Facts about Android!-Videoism_files/default.jpg"></a></div><b><a href="http://videoismtheme.blogspot.com/2013/07/5-true-facts-about-android.html" target="_top">5 True Facts about Android!</a></b><br><div style="float:left;padding-top: 5px;"><div>Jul-13 - 2013</div></div></li><li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="http://videoismtheme.blogspot.com/2013/07/despicable-me-2-minions-banana-song-2013.html" target="_top"><img class="recent_thumb" src="./5 True Facts about Android!-Videoism_files/default(1).jpg"></a></div><b><a href="http://videoismtheme.blogspot.com/2013/07/despicable-me-2-minions-banana-song-2013.html" target="_top">Despicable Me 2 | Minions Banana Song (2013)</a></b><br><div style="float:left;padding-top: 5px;"><div>Jul-12 - 2013</div></div></li><li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="http://videoismtheme.blogspot.com/2013/07/grand-theft-auto-v-official-gameplay.html" target="_top"><img class="recent_thumb" src="./5 True Facts about Android!-Videoism_files/default(2).jpg"></a></div><b><a href="http://videoismtheme.blogspot.com/2013/07/grand-theft-auto-v-official-gameplay.html" target="_top">Grand Theft Auto V: Official Gameplay Video</a></b><br><div style="float:left;padding-top: 5px;"><div>Jul-10 - 2013</div></div></li><li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="http://videoismtheme.blogspot.com/2013/07/asdadasd.html" target="_top"><img class="recent_thumb" src="./5 True Facts about Android!-Videoism_files/default(3).jpg"></a></div><b><a href="http://videoismtheme.blogspot.com/2013/07/asdadasd.html" target="_top">Eye to Eye what Tahir Shah is a so Viral?</a></b><br><div style="float:left;padding-top: 5px;"><div>Jul-10 - 2013</div></div></li><li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="http://videoismtheme.blogspot.com/2013/07/journey-in-key-of-bottle.html" target="_top"><img class="recent_thumb" src="./5 True Facts about Android!-Videoism_files/default(4).jpg"></a></div><b><a href="http://videoismtheme.blogspot.com/2013/07/journey-in-key-of-bottle.html" target="_top">Make Money on Blogger with Google AdSense</a></b><br><div style="float:left;padding-top: 5px;"><div>Jul-10 - 2013</div></div></li></ul>
 </div>
 <div class="clear"></div>
 <div class="clear"></div>
@@ -151,39 +160,8 @@ var numchars = 75;
 </div>
 <div class="clear"></div>
 </div>
-<div id="footer-widgets-container">
-<div class="clearfix" id="footer-widgets">
-<div class="footer-widget-box">
-</ul>
-</div>
-<div style="clear:both;"></div>
-<div id="footer-container">
-<div id="footer">
-<div id="copyrights">
-<div id="copyrightss">
-© 2015 MuakMaukaofficial- All rights reserved.
-</div>
-<div id="legal">
-<ul>
-<li>
-<a class="firstnav" href="#" title="Terms">About Us</a>
-</li>
-<li>
-<a href="#" title="Privacy Policy">Contact Us</a>
-</li>
-<li>
-<a href="#" title="Advertise">Terms</a>
-</li>
-<li>
-<a href="http://videoismtheme.blogspot.in/privacy" title="&gt;Contact">Privacy Policy</a>
-</li>
-</ul></div>
-</div>
-</div><!-- #footer -->
-</div>
-<div style="clear:both;"></div>
-<!--end: wrapper-->
-<script src="./5 True Facts about Android!-Videoism_files/firebase.js" type="text/javascript"></script>
-<script type="text/javascript" src="./5 True Facts about Android!-Videoism_files/3512243057-widgets.js"></script>
-<script type="text/javascript" src="./5 True Facts about Android!-Videoism_files/plusone.js" gapi_processed="true"></script>
-</body></html>
+
+
+<?php
+require 'footer.php';
+?>
