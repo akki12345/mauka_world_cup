@@ -40,14 +40,16 @@ require 'header.php';
       			<div class="company_ad">
 				     	<h2>Find Address :</h2>
       				<address>
-						 <p>500 Lorem Ipsum Dolor Sit,</p>
-						 <p>22-56-2-9 Sit Amet, Lorem,</p>
-						 <p>USA</p>
-				   		<p>Phone:(00) 222 666 444</p>
-				   		<p>Fax: (000) 000 00 00 0</p>
-				 	 	<p>Email: <a href="mailto:info@mycompany.com">info(at)mycompany.com</a></p>
-				   		<p>Follow on: <a href="#">Facebook</a>, <a href="#">Twitter</a></p>
+						 <p>niversity Stadium, University of Delhi,</p>
+						 <p>North Campus Vishvavidalaya Marg,</p>
+						 <p>Faculty of Social Work, University Enclave,</p>
+						 <p>New Delhi, Delhi 110007</p>
+				 	 	<p>Email: <a href="Email: contact@maukamaukaofficial.com">contact@maukamaukaofficial.com</a></p>
+				   		<p>Follow on: <a href="https://www.facebook.com/maukamaukaoriginal">Facebook</a>, <a href="#">Twitter</a></p>
 				   	</address>
+				   
+
+
 				   </div>
 				</div>				
 				<div class="col-md-6">
@@ -72,7 +74,7 @@ require 'header.php';
 						    </div>
 						    <br>
 						   <div>
-						   		<span><input type="submit" value="submit" class="btn btn-success"></span>
+						   		<span><input type="submit" value="submit" class="btn pull-right btn-success"></span>
 						  </div>
 					    </form>
 				    </div>
@@ -87,22 +89,13 @@ require 'header.php';
 
 <!--  Start Right Sidebar  col-md-3  -->
 
-    <div class="col-md-3 main-sidebar">
+   <div class="col-md-3 main-sidebar">
         <div id="rsidebar-wrapper">
 <div class="widget HTML" id="HTML1">
-<h3 class="title">Featured Vidoes</h3>
+<h3 class="title">Our Sponsors</h3>
 <div class="widget-content">
 
-<script src="./5 True Facts about Android!-Videoism_files/Feature"></script><ul class="recent_posts_with_thumbs"><li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.html" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/C3KuJKNFFjU">
-</iframe></a></div><b><a href="video.html" target="_top">Sikh Boy Bullied By Racist Kids Calling Him A Terrorist</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.html" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/gtSSxgBayyk">
-</iframe></a></div><b><a href="video.html" target="_top">Mauka Mauka Counter Strike Edition</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.html" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/2MYj3c1Wd6I">
-</iframe></a></div><b><a href="video.html" target="_top">3 players injured in 1 ball - Rare Epic Cricket Moment</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.html" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/pijivK5zfQA">
-</iframe></a></div><b><a href="video.html" target="_top">Baap Baap Hota hai Beta Beta</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.html" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/7VDN-yPr9as">
-</iframe></a></div><b><a href="video.html" target="_top">Shoaib Akhtar Kill Pakistani Team</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
+
 
 </div>
 <div class="clear"></div>
@@ -111,12 +104,9 @@ require 'header.php';
 </div></div>
 <p></p></div>
       </ul>
-      <div class="">
-        <a class=" btn-link btn-sm pull-right" href="video.html">View More Videos</a>
-      </div>
+      
     </div>
   </div>
-
   <!--  ./ Right Sidebar  col-md-3  -->
 
 

@@ -19,7 +19,7 @@ require 'header.php';
 </nav>
 
 <!-- ./ Secondary Navbar  -->
-
+<br>
 <!--  Start Main Content (left section + right sidebar)   -->
 
 <section class="container">
@@ -73,10 +73,7 @@ require 'header.php';
 </div></div>
 <p></p></div>
       </ul>
-      <!--
-      <div class="">
-        <a class=" btn-link btn-sm pull-right" href="video.html">View More Videos</a>
-      </div> -->
+      
     </div>
   </div>
 
