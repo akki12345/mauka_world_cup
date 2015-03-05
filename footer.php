@@ -12,7 +12,7 @@
   <div class="col-md-2">
     <h4> Follow us</h4>
     <ul class="list-unstyled">
-      <li><a href="">Facebook</a></li>
+      <li><a href="https://www.facebook.com/MaukaMaukaOriginal">Facebook</a></li>
       <li><a href="">Twitter</a></li>
       <li><a href="">Google+</a></li>
       
