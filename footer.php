@@ -4,10 +4,8 @@
 <div class="container">
 <div class="row">
   <div class="col-md-6">
-    <h3> Watch all your favourite media where ever you go.</h3>
-    <p>
-      Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus mus. Nullam id dolor id nibh ultricies vehicula.
-    </p>
+    <h3>Best Videos, Memes and Jokes on Mauka Mauka</h3>
+    
     <hr>
     <img src="./cup/logo-footer.png" alt="footer-logo">
   </div>
