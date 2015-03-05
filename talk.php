@@ -7,8 +7,8 @@ require 'header.php';
 <div class="row">
 <div class="col-md-12">
 <ol class="breadcrumb">
-<li><a href="index.html">Home</a></li>
-<li><a href="single.html">Media</a></li>
+<li><a href="index.php">Home</a></li>
+
 <li class="active">Talk To Star Players</li>
 </ol>
 </div>

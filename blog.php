@@ -7,12 +7,12 @@ require 'header.php';
 <div class="container">
   <div id="navbar" class="navbar-collapse collapse">
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">All</a></li>
+      <li><a href="#">All</a></li>
        <li><a href="#">ICC World Cup</a></li>
       <li><a href="#">UEFA</a></li>
       <li><a href="#">La Liga</a></li>
-      <li><a href="single.html">Talk To Star Players</a></li>
-      <li><a href="news.html">Blogs/News</a></li>
+      <li><a href="talk.php">Talk To Star Players</a></li>
+      <li class="active"><a href="blog.php">Blogs/News</a></li>
     </ul>
   </div>
 </div>

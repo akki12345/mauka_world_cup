@@ -35,7 +35,7 @@
     <ul class="nav navbar-nav navbar-right">
       <li><a href="index.html">Home</a></li>
       <li><a href="#">About Us</a></li>
-      <li><a href="video.html">Videos</a></li>
+      <li><a href="video.php">Videos</a></li>
     </ul>
   </div>
   <!-- /.navbar-collapse -->
