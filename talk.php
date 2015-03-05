@@ -283,7 +283,7 @@ require 'header.php';
     
     <div class="col-md-1"></div>
     <div class="col-md-10">
-  <textarea class="form-control" placeholder = "Your Query*(Min. 50 characters)" rows="5" id="inputMessage"></textarea>
+  <textarea class="form-control" placeholder = "Your Query*(Min. 25 characters)" rows="5" id="inputMessage"></textarea>
     </div>
   </div>
 
@@ -316,6 +316,27 @@ require 'header.php';
 <!--  ./ Left Section  col-md-9  -->
 
 <!--  ./ row   --></section>
+
+<script>
+function validate(form) {
+
+fail = validateMessage(form.inputMessage.value)
+
+if (fail == "") return true
+else { alert(fail); return false }
+}
+
+function validateMessage(field) {
+if (field == "") return "No Message was entered.\n"
+else if (field.length < 3)
+return "Message must be at least 25 characters.\n"
+
+return ""
+}
+
+
+</script>
 <?php
 require 'footer.php';
 ?>
+
