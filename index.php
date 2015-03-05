@@ -11,8 +11,8 @@ require 'header.php';
        <li><a href="#" data-tooltip="coming soon">ICC World Cup</a></li>
       <li><a href="#" data-tooltip="coming soon">UEFA</a></li>
       <li><a href="#" data-tooltip="coming soon">La Liga</a></li>
-      <li><a href="single.php">Talk To Star Players</a></li>
-      <li><a href="news.php">Blogs/News</a></li>
+      <li><a href="talk.php">Talk To Star Players</a></li>
+      <li><a href="blog.php">Blogs/News</a></li>
     </ul>
   </div>
 </div>
@@ -79,7 +79,7 @@ require 'header.php';
            <img src="./cup/meme2.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>Talk To Sachin Tendulker</p></div>
-                                    <a class="ts-position-cover" href="single.php"></a>
+                                    <a class="ts-position-cover" href="talk.php"></a>
 
             </div>
             <div class="caption">
@@ -98,7 +98,7 @@ require 'header.php';
            <img src="./cup/meme3.jpg" alt="...">            
 
             <div class="ts-overlay-panel  ts-overlay-background"><p>Talk To MS Dhoni</p></div>
-                                    <a class="ts-position-cover" href="single.php"></a>
+                                    <a class="ts-position-cover" href="talk.php"></a>
 
             </div>
             <div class="caption">
@@ -136,7 +136,7 @@ require 'header.php';
            <img src="./cup/meme5.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>talk to AB De Villier</p></div>
-                                    <a class="ts-position-cover" href="single.php"></a>
+                                    <a class="ts-position-cover" href="talk.php"></a>
 
             </div>
             <div class="caption">
@@ -155,7 +155,7 @@ require 'header.php';
            <img src="./cup/meme8.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>See Blog And News Portal</p></div>
-                                    <a class="ts-position-cover" href="single.php"></a>
+                                    <a class="ts-position-cover" href="talk.php"></a>
 
             </div>
             <div class="caption">
@@ -174,7 +174,7 @@ require 'header.php';
            <img src="./cup/meme9.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>talk to ronaldo</p></div>
-                                    <a class="ts-position-cover" href="single.php"></a>
+                                    <a class="ts-position-cover" href="talk.php"></a>
 
             </div>
             <div class="caption">

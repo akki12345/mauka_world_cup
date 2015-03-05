@@ -34,7 +34,7 @@
   <div class="collapse navbar-collapse" id="navbar-brand-centered">
     <ul class="nav navbar-nav navbar-right">
       <li><a href="index.php">Home</a></li>
-      <li><a href="#">About Us</a></li>
+      <li><a href="about.php">About Us</a></li>
       <li><a href="video.php">Videos</a></li>
     </ul>
   </div>

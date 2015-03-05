@@ -47,8 +47,8 @@
     </div>
     <div class="col-md-6 text-right">
       <ul class="list-inline">
-        <li><a href="">About Us</a></li>
-        <li><a href="">Contact Us</a></li>
+        <li><a href="about.php">About Us</a></li>
+        <li><a href="contact.php">Contact Us</a></li>
         <li><a data-toggle="modal" href="#myModal">Terms</a></li>
         <li><a data-toggle="modal" href="#myModal1">Privacy Policy</a></li>
       </ul>
