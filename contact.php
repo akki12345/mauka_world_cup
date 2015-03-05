@@ -40,7 +40,7 @@ require 'header.php';
       			<div class="company_ad">
 				     	<h2>Find Address :</h2>
       				<address>
-						 <p>niversity Stadium, University of Delhi,</p>
+						 <p>University Stadium, University of Delhi,</p>
 						 <p>North Campus Vishvavidalaya Marg,</p>
 						 <p>Faculty of Social Work, University Enclave,</p>
 						 <p>New Delhi, Delhi 110007</p>
