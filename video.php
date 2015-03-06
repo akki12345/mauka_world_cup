@@ -17,6 +17,7 @@ require 'header.php';
   </div>
 </div>
 </nav>
+
 <br><br>
 <div class="clear"></div>
 <div class="wrap">
@@ -90,4 +91,3 @@ require 'header.php';
 <?php
 require 'footer.php';
 ?>
-       
