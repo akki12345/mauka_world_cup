@@ -12,7 +12,7 @@
 <!-- Bootstrap core CSS -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/theme.css" rel="stylesheet">
-<link href="jquery.fs.picker.css" rel="stylesheet">
+
 <link rel="stylesheet" type="text/css" href="./cup/ionicons.min.css">
 </head>
 <body style="">

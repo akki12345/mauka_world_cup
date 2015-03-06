@@ -288,7 +288,7 @@ require 'header.php';
       <div class="modal-body">
 
 
-<form class="form-horizontal" role="form" method="get" action = "feedback" onSubmit = "return validate(this)">
+<form class="form-horizontal" role="form" method="get" action = "#" onSubmit = "return validate(this)">
   
 
 
@@ -305,7 +305,7 @@ require 'header.php';
   <div class="form-group">
    <div class="col-md-1"></div>
     <div class="col-md-10">
-      <button type="submit" class="btn btn-primary">Submit</button>
+      <a type="button" data-toggle="modal" href="#success" class="btn btn-primary">Submit</a>
     </div>
   </div>
   <div class="form-group">
@@ -320,7 +320,25 @@ require 'header.php';
       
       <div class="blog-footer">
      
-       <p>MaukaMaukaOfficial © 2014</p>        
+       <p>MaukaMaukaOfficial © 2015</p>        
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="myModalLabel">Terms of Service</h4>
+      </div>
+      <div class="modal-body">
+        <p><b><center>SUCCESS..!</center></p>
+      </div>
+      <div class="blog-footer">
+        <p>MaukaMaukaOfficial © 2015</p>
       </div>
     </div>
   </div>
