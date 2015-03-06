@@ -10,6 +10,8 @@
 <title>Mauka Mauka | Official</title>
 
 <!-- Bootstrap core CSS -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/theme.css" rel="stylesheet">
 
