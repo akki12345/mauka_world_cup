@@ -32,14 +32,14 @@ require 'header.php';
 <div class="container">
 	<div class="row about">	<!-- start about -->
 		<div class="col-md-3 img_style">
-			<img src="cup/lorem.jpg" alt=""  class="img-responsive"/>
+			<img src="cup/about-us.jpg" alt=""  class="img-responsive"/>
 		</div>
 		<div class="col-md-6">
 		     <h4>Mauka for every team to defeat India in ICC World Cup 2015. Support India and have fun this world cup. </h4>
 		     <p class="para">"MaukaMauka" follows the the theme that every cricket team has a "mauka" a chance or an oppurtunity in hindi to win against the the indian cricket team but this so called oppurtunity belies what it implies ,highly popular among the fans of the india cricket team the phrase maukamauka from its inception in the TVC has been used to support their team cuch that other teams will keep getting maukas to win against india but will ultimately prove to be mediocre at best against india, </p>
 		     <p class="para"></p>
 			<div class="read_more">
-				<a href="single.php"><button class="btn_style">view more</button></a>
+				<a href="talk.php"><button class="btn_style">view more</button></a>
 			</div>
 		</div>
 		<div class="clearfix"></div>

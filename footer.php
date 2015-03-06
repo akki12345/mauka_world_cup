@@ -7,7 +7,7 @@
     <h3>Best Videos, Memes and Jokes on Mauka Mauka</h3>
     
     <hr>
-    <img src="./cup/logo-footer.png" alt="footer-logo">
+    <img src="./cup/logo-mauka.png" height="150px" width="167px"alt="footer-logo">
   </div>
   <div class="col-md-2">
     <h4> Follow us</h4>
