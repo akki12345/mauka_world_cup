@@ -4,14 +4,20 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="">
-<meta name="author" content="">
+<meta name="description" content="Mauka for every team to defeat India in ICC World Cup 2015. Support India and have fun this world cup.">
+<meta name="author" content="MaukaMaukaOfficial">
+
+<meta property="og:title" content="Official Mauka Mauka Website. Visit for latest Memes, Videos and Jokes."/>
+<meta property="og:image" content="http://maukamaukaofficial.com/cup/logo-mauka.png"/>
+<meta property="og:site_name" content="Mauka Mauka Official"/>
+<meta property="og:description" content="Mauka for every team to defeat India in ICC World Cup 2015. Support India and have fun this world cup."/>
+	
 <link rel="icon" href="http://www.themestrap.me/favicon.ico">
 <title>Mauka Mauka | Official</title>
 
 <!-- Bootstrap core CSS -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/theme.css" rel="stylesheet">
 
@@ -29,7 +35,7 @@
   <div class="navbar-header">
     <div class="navbar-brand navbar-brand-centered">
       
-   <a href="#"> <img src="./cup/logo1.png" height="35" width="145"alt="logo"></a>
+   <a href="#"> <img src="./cup/logo-header.png" height="35" width="140"alt="logo"></a>
     </div>
   </div>
   <!-- Collect the nav links, forms, and other content for toggling -->
