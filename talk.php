@@ -17,105 +17,120 @@ require 'header.php';
   </div>
 </div>
 </nav>
+
+
 <section class="container">
-<div class="row">
-<div class="col-md-12">
-<ol class="breadcrumb">
-<li><a href="index.php">Home</a></li>
-
-<li class="active">Talk To Star Players</li>
-</ol>
-</div>
+	<div class="row">
+		<div class="col-md-12">
+			<ol class="breadcrumb">
+				<li><a href="index.php">Home</a></li>
+				<li class="active">Talk To Star Players</li>
+			</ol>
+		</div>
 <!--  Start Left Section  col-md-9  -->
-<div class="col-md-2 sidebar-secondary">
-<div class="thumbnail">
+</section>
+              
+<div class="col-md-12 container">
+<div class="col-md-9">
+<section class="container">
+	<div class="row">
+		<div class="col-md-1"></div>
+				<div class="col-md-2 sidebar-secondary">
+					<div class="thumbnail">
 
-<div class="ts-overlay ts-overlay-hover">
-                                    <img src="./cup/ronaldo.jpg" alt="Image">
-                                    <div class="ts-overlay-panel ts-overlay-fade ts-overlay-background">
-                                        <p>Watch Our video check memes</p>
-                                    </div>
-                                    <a class="ts-position-cover" href="#"></a>
-                                </div>
+						<div class="ts-overlay ts-overlay-hover">
+                            <img src="./cup/ronaldo.jpg" alt="Image">
+                            <div class="ts-overlay-panel ts-overlay-fade ts-overlay-background">
+                                 <p>Watch Our video check memes</p>
+                            </div>
+                                 <a class="ts-position-cover" href="#"></a>
+                        </div>
+					</div>
+				</div>
 
+		<div class="col-md-7">
+			<div class="main-content no-pad">
+				<div class="col-md-12">
+					<h3>Ask Any Query To Ronaldo <span class="pull-right">7</span></h3>
+						<p class="lead text-muted">(2015)</p>
+				</div>
+				<div class="panel panel-default"><!-- Default panel contents -->
+					<div class="panel-body">
+
+						<p>Given its origins lay in Madrid, where Ronaldo has become arguably world sport’s biggest superstar, it doesn’t look good for the 30-year-old striker.A likeness of Ronaldo has been on display at Madrid’s wax museum since it was unveiled in December 2013.</p>
+						<a data-toggle="modal" href="#talk" type="button" class="btn btn-primary">TALK</a>
+
+					</div>
+
+				
+                    <!-- List group -->
+					<ul class="list-group">
+					<li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.4</span></li>
+					</ul>
+
+				</div>
+			</div>
+		</div>
 
 
 </div>
-</div>
-<div class="col-md-7">
-<div class="main-content no-pad">
-<div class="col-md-12">
-<h3>Ask Any Query To Ronaldo <span class="pull-right">7</span></h3>
-<p class="lead text-muted">(2015)</p>
-</div>
-<div class="panel panel-default"><!-- Default panel contents -->
-<div class="panel-body">
 
-<p>Given its origins lay in Madrid, where Ronaldo has become arguably world sport’s biggest superstar, it doesn’t look good for the 30-year-old striker.A likeness of Ronaldo has been on display at Madrid’s wax museum since it was unveiled in December 2013.</p>
-<a data-toggle="modal" href="#talk" type="button" class="btn btn-primary">TALK</a>
 
-</div>
-
-<div class="panel-body">
-
-</div>
-<!-- List group -->
-<ul class="list-group">
-<li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.4</span></li>
-</ul>
-
-</div>
 
 
 <!--  ./ Left Section  col-md-9  -->
 
 <!--  ./ row   --></section>
+
 <!--  Start Main Content (left section + right sidebar)   -->
 <br>
+
 <section class="container">
-<div class="row">
+	<div class="row">
 <!--  Start Left Section  col-md-9  -->
-<div class="col-md-2 sidebar-secondary">
-<div class="thumbnail">
+<div class="col-md-1"></div>
+		<div class="col-md-2 sidebar-secondary">
+			<div class="thumbnail">
 
-<div class="ts-overlay ts-overlay-hover">
-                                    <img src="./cup/sachin.jpg" alt="Image">
-                                    <div class="ts-overlay-panel ts-overlay-fade ts-overlay-background">
-                                        <p>Check our Memes</p>
-                                    </div>
-                                    <a class="ts-position-cover" href="#"></a>
-                                </div>
+				<div class="ts-overlay ts-overlay-hover">
+                    <img src="./cup/sachin.jpg" alt="Image">
+                 	<div class="ts-overlay-panel ts-overlay-fade ts-overlay-background">
+                        <p>Check our Memes</p>
+                    </div>
+                        <a class="ts-position-cover" href="#"></a>
+                </div>
+			</div>
+		</div>
 
+		<div class="col-md-7">
+			<div class="main-content no-pad">
+				<div class="col-md-12">
+					<h3>Ask Any Query To Sachin <span class="pull-right">10</span></h3>
+					<p class="lead text-muted">(2015)</p>
+				</div>
+				<div class="panel panel-default"><!-- Default panel contents -->
+					<div class="panel-body">
+						<p>Sachin is a former Indian cricketer, widely acknowledged as the greatest batsman of all time. He took up cricket at the age of eleven, made his Test debut on 15 November 1989 against Pakistan in Karachi at the age of sixteen, and went on to represent Mumbai domestically and India internationally for close to twenty-four years. He is the only player to have scored one hundred international centuries, the first batsman to score a double century in a One Day International, holds the record for most number of runs in both ODI and Test cricket, the only player to complete more than 30,000 runs in international cricket</p>
+						<a data-toggle="modal" href="#talk" type="button" class="btn btn-primary">TALK</a>
+					</div>
 
-
-</div>
-</div>
-<div class="col-md-7">
-<div class="main-content no-pad">
-<div class="col-md-12">
-<h3>Ask Any Query To Sachin <span class="pull-right">10</span></h3>
-<p class="lead text-muted">(2015)</p>
-</div>
-<div class="panel panel-default"><!-- Default panel contents -->
-<div class="panel-body">
-<p>Sachin is a former Indian cricketer, widely acknowledged as the greatest batsman of all time. He took up cricket at the age of eleven, made his Test debut on 15 November 1989 against Pakistan in Karachi at the age of sixteen, and went on to represent Mumbai domestically and India internationally for close to twenty-four years. He is the only player to have scored one hundred international centuries, the first batsman to score a double century in a One Day International, holds the record for most number of runs in both ODI and Test cricket, the only player to complete more than 30,000 runs in international cricket</p>
-<a data-toggle="modal" href="#talk" type="button" class="btn btn-primary">TALK</a>
-</div>
-<div class="panel-body">
-
-</div>
-<!-- List group -->
-<ul class="list-group">
-<li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.8</span></li>
-</ul>
-
-</div>
+						<!-- List group -->
+						<ul class="list-group">
+						<li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.8</span></li>
+						</ul>
+				</div>
+			</div>
+		</div>
+	
+	<div>
 </section>
+
 
 <br>
 <section class="container">
 <div class="row">
 <!--  Start Left Section  col-md-9  -->
+<div class="col-md-1"></div>
 <div class="col-md-2 sidebar-secondary">
 <div class="thumbnail">
 
@@ -142,14 +157,15 @@ require 'header.php';
 <p>M. S. Dhoni (born 7 July 1981) is an Indian cricketer and the current captain of the Indian national cricket team in limited-overs formats. An attacking right-handed middle-order batsman and wicket-keeper, he is widely regarded as one of the greatest finishers in limited-overs cricket. He made his One Day International (ODI) debut in December 2004 against Bangladesh, and played his first Test a year later against Sri Lanka.</p>
 <a data-toggle="modal" href="#talk" type="button" class="btn btn-primary">TALK</a>
 </div>
-<div class="panel-body">
 
-</div>
 <!-- List group -->
 <ul class="list-group">
 <li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.1</span></li>
 </ul>
 
+</div>
+</div>
+</div>
 </div>
 </section>
 
@@ -157,6 +173,7 @@ require 'header.php';
 <section class="container">
 <div class="row">
 <!--  Start Left Section  col-md-9  -->
+<div class="col-md-1"></div>
 <div class="col-md-2 sidebar-secondary">
 <div class="thumbnail">
 
@@ -188,10 +205,14 @@ require 'header.php';
 
 </div>
 <!-- List group -->
+
 <ul class="list-group">
 <li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.6</span></li>
 </ul>
 
+</div>
+</div>
+</div>
 </div>
 </section>
 
@@ -199,6 +220,7 @@ require 'header.php';
 <section class="container">
 <div class="row">
 <!--  Start Left Section  col-md-9  -->
+<div class="col-md-1"></div>
 <div class="col-md-2 sidebar-secondary">
 <div class="thumbnail">
 
@@ -235,12 +257,16 @@ require 'header.php';
 </ul>
 
 </div>
+</div>
+</div>
+</div>
 </section>
 
 <br>
 <section class="container">
 <div class="row">
 <!--  Start Left Section  col-md-9  -->
+<div class="col-md-1"></div>
 <div class="col-md-2 sidebar-secondary">
 <div class="thumbnail">
 
@@ -344,10 +370,25 @@ require 'header.php';
   </div>
 </div>
 
+</div>
+</div>
+</div>
 
 <!--  ./ Left Section  col-md-9  -->
 
 <!--  ./ row   --></section>
+
+</div>
+<div class="col-md-3">
+	<!------AD------>
+</div>
+
+</div>
+
+<div><br><center>Talk to Players © 2015 MaukaMaukaOfficial</center></div>
+
+
+
 
 <script>
 function validate(form) {
@@ -368,6 +409,7 @@ return ""
 
 
 </script>
+
 <?php
 require 'footer.php';
 ?>
