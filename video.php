@@ -8,7 +8,11 @@ require 'header.php';
   <div id="navbar" class="navbar-collapse collapse">
     <ul class="nav navbar-nav">
       <li><a href="index.php">All</a></li>
+<<<<<<< HEAD
        <li><a href="meme.php" data-tooltip="ICC News & MeMe">ICC World Cup</a></li>
+=======
+       <li><a href="#" data-tooltip="coming soon">ICC World Cup</a></li>
+>>>>>>> 87e4a4ca4af50b25bb4c4b87b322f9cf31ec4ebc
       <li><a href="#" data-tooltip="coming soon">UEFA</a></li>
       <li><a href="#" data-tooltip="coming soon">La Liga</a></li>
       <li><a href="talk.php">Talk To Star Players</a></li>
