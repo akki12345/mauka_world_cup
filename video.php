@@ -7,7 +7,7 @@ require 'header.php';
 <div class="container">
   <div id="navbar" class="navbar-collapse collapse">
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">All</a></li>
+      <li><a href="index.php">All</a></li>
        <li><a href="#" data-tooltip="coming soon">ICC World Cup</a></li>
       <li><a href="#" data-tooltip="coming soon">UEFA</a></li>
       <li><a href="#" data-tooltip="coming soon">La Liga</a></li>
