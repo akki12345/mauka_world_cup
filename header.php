@@ -11,7 +11,7 @@
 
 <!-- Bootstrap core CSS -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/theme.css" rel="stylesheet">
 
@@ -29,7 +29,7 @@
   <div class="navbar-header">
     <div class="navbar-brand navbar-brand-centered">
       
-   <a href="#"> <img src="./cup/logo.png" alt="logo"></a>
+   <a href="#"> <img src="./cup/logo-header.png" height="35" width="140"alt="logo"></a>
     </div>
   </div>
   <!-- Collect the nav links, forms, and other content for toggling -->

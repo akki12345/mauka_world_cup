@@ -7,12 +7,12 @@ require 'header.php';
 <div class="container">
   <div id="navbar" class="navbar-collapse collapse">
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">All</a></li>
-       <li><a href="meme.php" data-tooltip="ICC News & MeMe">ICC World Cup</a></li>
+      <li ><a href="index.php">All</a></li>
+       <li class="active"><a href="meme.php" data-tooltip="ICC News & MeMe">ICC World Cup</a></li>
       <li><a href="#" data-tooltip="coming soon">UEFA</a></li>
       <li><a href="#" data-tooltip="coming soon">La Liga</a></li>
       <li><a href="talk.php">Talk To Star Players</a></li>
-      <li><a href="blog.php">Blogs</a></li>
+      <li><a href="blog.php">Blogs/News</a></li>
     </ul>
   </div>
 </div>
@@ -29,7 +29,148 @@ require 'header.php';
     <div class="col-md-9">
       <div class="main-content">
         <div class="col-md-12">
-          <h4>MaukaMaukaOfficial <small class="pull-right text-muted"> </small></h4>
+          <h4>New Memes And News Of ICC World Cup #MaukaMaukaofficial.com <small class="pull-right text-muted"> </small></h4>
+        </div>
+      
+       <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme18.png" alt="Lorem Ipsum">            
+
+            <div class="ts-overlay-panel  ts-overlay-background"><p>#MaukaMauka Official </p></div>
+                                    <a class="ts-position-cover" href="index.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>Phen Li Blue T-shirt</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+       <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme17.png" alt="Lorem Ipsum">            
+
+            <div class="ts-overlay-panel  ts-overlay-background"><p>Watch Our video</p></div>
+                                    <a class="ts-position-cover" href="video.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>BC Milan</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+       <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme16.png" alt="Lorem Ipsum">            
+
+            <div class="ts-overlay-panel  ts-overlay-background"><p>New Memes and News</p></div>
+                                    <a class="ts-position-cover" href="video.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>Pakistan Ka Mauka</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+       
+       <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme15.png" alt="Lorem Ipsum">            
+
+            <div class="ts-overlay-panel  ts-overlay-background"><p>Talk To star players</p></div>
+                                    <a class="ts-position-cover" href="talk.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>Mil Gyi Sabko Batting</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      
+       <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme14.jpg" alt="Lorem Ipsum">            
+
+            <div class="ts-overlay-panel  ts-overlay-background"><p>Watch Our video</p></div>
+                                    <a class="ts-position-cover" href="video.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>Qualified For Super8</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+       <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme13.jpg" alt="Lorem Ipsum">            
+
+            <div class="ts-overlay-panel  ts-overlay-background"><p>#Blogs</p></div>
+                                    <a class="ts-position-cover" href="blog.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>#Respect Man</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+
+       <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme12.png" alt="Lorem Ipsum">            
+
+            <div class="ts-overlay-panel  ts-overlay-background"><p>Watch Our video</p></div>
+                                    <a class="ts-position-cover" href="video.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>Khelo Mars pe Khelo..</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
         </div>
 
             <div class="col-sm-6 col-md-3">
@@ -175,7 +316,7 @@ require 'header.php';
            <img src="./cup/meme8.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>See Blog And News Portal</p></div>
-                                    <a class="ts-position-cover" href="meme.php"></a>
+                                    <a class="ts-position-cover" href="talk.php"></a>
 
             </div>
             <div class="caption">
@@ -213,7 +354,7 @@ require 'header.php';
            <img src="./cup/meme6.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>Best Meme</p></div>
-                                    <a class="ts-position-cover" href="meme.php"></a>
+                                    <a class="ts-position-cover" href="index.php"></a>
 
             </div>
             <div class="caption">
@@ -232,7 +373,7 @@ require 'header.php';
            <img src="./cup/meme10.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>#MaukaMauka</p></div>
-                                    <a class="ts-position-cover" href="meme.php"></a>
+                                    <a class="ts-position-cover" href="talk.php"></a>
 
             </div>
             <div class="caption">
@@ -251,7 +392,7 @@ require 'header.php';
            <img src="./cup/meme11.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>#MaukaMaukaOfficial</p></div>
-                                    <a class="ts-position-cover" href="meme.php"></a>
+                                    <a class="ts-position-cover" href="talk.php"></a>
 
             </div>
             <div class="caption">
@@ -270,7 +411,7 @@ require 'header.php';
            <img src="./cup/meme10.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>#MaukaMauka</p></div>
-                                    <a class="ts-position-cover" href="meme.php"></a>
+                                    <a class="ts-position-cover" href="talk.php"></a>
 
             </div>
             <div class="caption">
@@ -289,7 +430,7 @@ require 'header.php';
            <img src="./cup/meme11.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>#MaukaMaukaOfficial</p></div>
-                                    <a class="ts-position-cover" href="meme.php"></a>
+                                    <a class="ts-position-cover" href="talk.php"></a>
 
             </div>
             <div class="caption">
@@ -308,7 +449,7 @@ require 'header.php';
            <img src="./cup/meme7.jpg" alt="...">            
 
             <div class="ts-overlay-panel ts-overlay-background"><p>Number 10</p></div>
-                                    <a class="ts-position-cover" href="talk.php"></a>
+                                    <a class="ts-position-cover" href="index.php"></a>
 
             </div>
             <div class="caption">
@@ -320,7 +461,6 @@ require 'header.php';
           </div>
         </div>
       </div>
-       <a class="btn btn-link btn-block btn-lg" href="meme.php">view more</a>
     </div>
 
 <!--  ./ Left Section  col-md-9  -->
@@ -331,21 +471,6 @@ require 'header.php';
 <div class="widget HTML" id="HTML1">
 <h3 class="title">Featured Vidoes</h3>
 <div class="widget-content">
-
-<script src="./5 True Facts about Android!-Videoism_files/Feature"></script><ul class="recent_posts_with_thumbs">
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/M5f7hWtcW2Y">
-</iframe></a></div><b><a href="video.php" target="_top">Mauka For Pakistan – INDIA Vs IRELAND</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/eFS1ikcvLdI">
-</iframe></a></div><b><a href="video.php" target="_top">Mauka Mauka – INDIA Vs West INDIES #WontGiveItBack</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/C3KuJKNFFjU">
-</iframe></a></div><b><a href="video.php" target="_top">Sikh Boy Bullied By Racist Kids Calling Him A Terrorist</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/gtSSxgBayyk">
-</iframe></a></div><b><a href="video.php" target="_top">Mauka Mauka Counter Strike Edition</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/2MYj3c1Wd6I">
-</iframe></a></div><b><a href="video.php" target="_top">3 players injured in 1 ball - Rare Epic Cricket Moment</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-<li class="clearfix"><div class="zitem"><span class="play-button"></span><a href="video.php" target="_top"><iframe width="200" height="180" src="http://www.youtube.com/embed/7VDN-yPr9as">
-</iframe></a></div><b><a href="video.php" target="_top">Shoaib Akhtar Kill Pakistani Team</a></b><br><div style="float:left;padding-top: 5px;"></div></li>
-
 </div>
 <div class="clear"></div>
 

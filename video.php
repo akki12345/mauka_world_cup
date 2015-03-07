@@ -7,8 +7,8 @@ require 'header.php';
 <div class="container">
   <div id="navbar" class="navbar-collapse collapse">
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">All</a></li>
-       <li><a href="#" data-tooltip="coming soon">ICC World Cup</a></li>
+      <li><a href="index.php">All</a></li>
+       <li><a href="meme.php" data-tooltip="ICC News & MeMe">ICC World Cup</a></li>
       <li><a href="#" data-tooltip="coming soon">UEFA</a></li>
       <li><a href="#" data-tooltip="coming soon">La Liga</a></li>
       <li><a href="talk.php">Talk To Star Players</a></li>
@@ -17,18 +17,19 @@ require 'header.php';
   </div>
 </div>
 </nav>
+
 <br><br>
 <div class="clear"></div>
 <div class="wrap">
     <div class="content">
         <div class="vdo-log margin_bottom">
             <div class="heading6"><h1>MaukaMaukaOfficial Videos</h1></div>
-            <div class="video-player"><iframe width="600" height="350" src="http://www.youtube.com/embed/eFS1ikcvLdI">
+            <div class="video-player"><iframe width="600" height="350" src="http://www.youtube.com/embed/M5f7hWtcW2Y">
                </iframe></div>
             <div class="float-left">
                 <div class="heading5">Description</div>
                 <div class="clear"></div>
-                <div class="vb-desc">Mauka Mauka – INDIA Vs West INDIES #WontGiveItBack.</div>
+                <div class="vb-desc">mauka mauka | india vs ireland | Mauka for pakistan | wc2015.</div>
                 <div class="clear"></div>
             </div>
             <div class="float-left">
@@ -43,6 +44,15 @@ require 'header.php';
         <div class="sidebox-one">
         <div class="heading2"><span>Featured <span class="highlight">Videos</span></span><div class="lines"></div></div>
             <div class="sb-video-log">
+                <div class="sb-vdo-list">
+                    <div class="sb-vdo-thumb">
+                        <iframe width="250" height="170" src="http://www.youtube.com/embed/eFS1ikcvLdI"></iframe></a>
+                    </div>
+                    <div class="sb-vdo-info">
+                        <div class="sb-vdo-title"><a href="https://www.youtube.com/watch?v=eFS1ikcvLdI"><h4>Mauka Mauka – INDIA Vs West INDIES #WontGiveItBack</h4></a></div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
                 <div class="sb-vdo-list">
                     <div class="sb-vdo-thumb">
                         <iframe width="250" height="170" src="http://www.youtube.com/embed/C3KuJKNFFjU"></iframe></a>
@@ -90,4 +100,3 @@ require 'header.php';
 <?php
 require 'footer.php';
 ?>
-       

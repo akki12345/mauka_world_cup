@@ -8,10 +8,10 @@ require 'header.php';
   <div id="navbar" class="navbar-collapse collapse">
     <ul class="nav navbar-nav">
       <li ><a href="index.php">All</a></li>
-           <li><a href="#" data-tooltip="coming soon">ICC World Cup</a></li>
+      <li><a href="meme.php" data-tooltip="ICC News & MeMe">ICC World Cup</a></li>
       <li><a href="#" data-tooltip="coming soon">UEFA</a></li>
       <li><a href="#" data-tooltip="coming soon">La Liga</a></li>
-      <li class="active"><a href="single.php">Talk To Star Players</a></li>
+      <li class="active"><a href="talk.php">Talk To Star Players</a></li>
       <li><a href="blog.php">Blogs/News</a></li>
     </ul>
   </div>
