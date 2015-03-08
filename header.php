@@ -35,7 +35,7 @@
   <div class="navbar-header">
     <div class="navbar-brand navbar-brand-centered">
       
-   <a href="#"> <img src="./cup/logo-header.png" height="35" width="140"alt="logo"></a>
+   <a href="#"> <img src="./cup/logo-header.png" height="33" width="136"alt="logo"></a>
     </div>
   </div>
   <!-- Collect the nav links, forms, and other content for toggling -->
