@@ -469,7 +469,7 @@ require 'header.php';
     <div class="col-md-3 main-sidebar">
         <div id="rsidebar-wrapper">
 <div class="widget HTML" id="HTML1">
-<h3 class="title">Featured Vidoes</h3>
+<h3 class="title"></h3>
 <div class="widget-content">
 </div>
 <div class="clear"></div>
@@ -479,7 +479,6 @@ require 'header.php';
 <p></p></div>
       </ul>
       <div class="">
-        <a class=" btn-link btn-sm pull-right" href="video.php">View More Videos</a>
       </div>
     </div>
   </div>
