@@ -12,16 +12,16 @@
 <meta property="og:site_name" content="Mauka Mauka Official"/>
 <meta property="og:description" content="Mauka for every team to defeat India in ICC World Cup 2015. Support India and have fun this world cup."/>
 	
-<link rel="icon" href="http://www.themestrap.me/favicon.ico">
+<link rel="icon" href="./cup/icon.jpg">
 <title>Mauka Mauka | Official</title>
 
 <!-- Bootstrap core CSS -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/theme.css" rel="stylesheet">
+<link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
+<link href="css/theme.css" type="text/css" rel="stylesheet">
 
-<link rel="stylesheet" type="text/css" href="./cup/ionicons.min.css">
+
 </head>
 <body style="">
 <!-- Start Main-Navbar  -->

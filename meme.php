@@ -24,9 +24,11 @@ require 'header.php';
 <section class="container">
   <div class="row">
 
+
 <!--  Start Left Section  col-md-9  -->
 
     <div class="col-md-9">
+
       <div class="main-content">
         <div class="col-md-12">
           <h4>New Memes And News Of ICC World Cup #MaukaMaukaofficial.com <small class="pull-right text-muted"> </small></h4>
@@ -469,7 +471,7 @@ require 'header.php';
     <div class="col-md-3 main-sidebar">
         <div id="rsidebar-wrapper">
 <div class="widget HTML" id="HTML1">
-<h3 class="title">Featured Vidoes</h3>
+
 <div class="widget-content">
 </div>
 <div class="clear"></div>
@@ -478,8 +480,8 @@ require 'header.php';
 </div></div>
 <p></p></div>
       </ul>
-      <div class="">
-        <a class=" btn-link btn-sm pull-right" href="video.php">View More Videos</a>
+      <div class="col-md-3">
+        
       </div>
     </div>
   </div>
