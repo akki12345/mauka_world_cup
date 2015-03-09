@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 
-<html lang="en" class="ts-notouch"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="en" class="ts-notouch">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,6 +22,9 @@
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/theme.css" rel="stylesheet">
+<link href="css/round-about.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/common.css" />
+<link rel="stylesheet" type="text/css" href="css/style3.css" />
 
 <link rel="stylesheet" type="text/css" href="./cup/ionicons.min.css">
 </head>
