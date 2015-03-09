@@ -7,13 +7,13 @@
     <h3>Best Videos, Memes and Jokes on Mauka Mauka</h3>
     
     <hr>
-    <img src="./cup/logo-mauka.png" height="150px" width="167px"alt="footer-logo">
+    <img src="./cup/logo-footer.png" height="118px" width="492px"alt="footer-logo">
   </div>
   <div class="col-md-2">
     <h4> Follow us</h4>
     <ul class="list-unstyled">
       <li><a href="https://www.facebook.com/MaukaMaukaOriginal">Facebook</a></li>
-      <li><a href="">Twitter</a></li>
+      <li><a href="https://twitter.com/MaukaMauka15">Twitter</a></li>
       <li><a href="">Google+</a></li>
       
     </ul>
