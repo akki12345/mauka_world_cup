@@ -48,7 +48,7 @@ require 'header.php';
 <div class="col-md-7">
 <div class="main-content no-pad">
 <div class="col-md-12">
-<h3>Ask Any Query To Sachin <span class="pull-right">45</span></h3>
+<h3>Ask Any Query To Sachin <span class="pull-right">10</span></h3>
 <p class="lead text-muted">(2015)</p>
 </div>
 <div class="panel panel-default"><!-- Default panel contents -->
@@ -61,7 +61,7 @@ require 'header.php';
 </div>
 <!-- List group -->
 <ul class="list-group">
-<li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.4</span></li>
+<li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.8</span></li>
 </ul>
 
 </div>
@@ -89,12 +89,12 @@ require 'header.php';
 <div class="col-md-7">
 <div class="main-content no-pad">
 <div class="col-md-12">
-<h3>Ask Any Query To Sachin <span class="pull-right">10</span></h3>
+<h3>Ask Any Query To Gayle <span class="pull-right">45</span></h3>
 <p class="lead text-muted">(2015)</p>
 </div>
 <div class="panel panel-default"><!-- Default panel contents -->
 <div class="panel-body">
-<p>he is a former west indies player, widely acknowledged as the greatest batsman of all time. He took up cricket at the age of fifteen, made his Test debut on 15 November 1989 against Pakistan in Karachi at the age of sixteen. He is the only player to have scored one hundred international centuries, the first batsman to score a double century in a One Day International, holds the record for most number of runs in both ODI and Test cricket, the only player to complete more than 30,000 runs in international cricket</p>
+<p>He is one of only four players who have scored two triple centuries at Test level: 317 against South Africa in 2005, and 333 against Sri Lanka in 2010. He is known as a big hitter, very often hitting sixes; in 2012 he became the first player to hit a six off the first ball of a Test match. Playing for Royal Challengers Bangalore, he scored a 30-ball century, the fastest across any format, that became the highest individual T20 score (175 not out).[3][4] It eclipsed the previous mark set by Brendan McCullum of Kolkata Knight Riders. At the launch of the Caribbean Premier League he was announced as the first franchise player for the league</p>
 <a data-toggle="modal" href="#talkchris" type="button" class="btn btn-primary">TALK</a>
 </div>
 <div class="panel-body">
@@ -102,53 +102,13 @@ require 'header.php';
 </div>
 <!-- List group -->
 <ul class="list-group">
-<li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.8</span></li>
+<li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.4</span></li>
 </ul>
 
 </div>
 </section>
 <br>
 
-<section class="container">
-<div class="row">
-<!--  Start Left Section  col-md-9  -->
-<div class="col-md-2 sidebar-secondary">
-<div class="thumbnail">
-
-<div class="ts-overlay ts-overlay-hover">
-                                    <img src="./cup/ab.jpg" alt="Image">
-                                    <div class="ts-overlay-panel ts-overlay-fade ts-overlay-background">
-                                        <p>Check our Memes</p>
-                                    </div>
-                                    <a class="ts-position-cover" href="#"></a>
-                                </div>
-
-
-
-</div>
-</div>
-<div class="col-md-7">
-<div class="main-content no-pad">
-<div class="col-md-12">
-<h3>Ask Any Query To Sachin <span class="pull-right">10</span></h3>
-<p class="lead text-muted">(2015)</p>
-</div>
-<div class="panel panel-default"><!-- Default panel contents -->
-<div class="panel-body">
-<p>he is a former west indies player, widely acknowledged as the greatest batsman of all time. He took up cricket at the age of fifteen, made his Test debut on 15 November 1989 against Pakistan in Karachi at the age of sixteen. He is the only player to have scored one hundred international centuries, the first batsman to score a double century in a One Day International, holds the record for most number of runs in both ODI and Test cricket, the only player to complete more than 30,000 runs in international cricket</p>
-<a data-toggle="modal" href="#talkchris" type="button" class="btn btn-primary">TALK</a>
-</div>
-<div class="panel-body">
-
-</div>
-<!-- List group -->
-<ul class="list-group">
-<li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.8</span></li>
-</ul>
-
-</div>
-</section>
-<br>
 
 <div class="col-md-2 sidebar-secondary">
 <div class="thumbnail">

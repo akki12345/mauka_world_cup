@@ -12,8 +12,6 @@ require 'header.php';
 
        <li><a href="meme.php" data-tooltip="ICC News & MeMe">ICC World Cup</a></li>
 
-       <li><a href="#" data-tooltip="coming soon">ICC World Cup</a></li>
-
       <li><a href="#" data-tooltip="coming soon">UEFA</a></li>
       <li><a href="#" data-tooltip="coming soon">La Liga</a></li>
       <li><a href="talk.php">Talk To Star Players</a></li>
@@ -51,18 +49,6 @@ require 'header.php';
 		
 			};
 		</script>
-      
-       <div class="float-right">
-                <div class="heading5">Description</div>
-                <div class="clear"></div>
-                <div class="vb-desc">mauka mauka | india vs ireland | Mauka for pakistan | wc2015.</div>
-                <div class="clear"></div>
-            </div>
-            <div class="float-right">
-                <div class="heading5">Category</div>
-                <div class="clear"></div>
-                <div class="vb-desc"><a href="index.php" rel="nofollow">ICC world cup</a> <span>|</span> <a href="index.php" rel="nofollow">Mauka Mauka</a> </div>
-            </div>
             <br><br>
         </div>
 	<?php

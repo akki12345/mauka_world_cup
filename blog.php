@@ -9,7 +9,7 @@ require 'header.php';
     <ul class="nav navbar-nav">
 
       <li ><a href="index.php">All</a></li>
-      <li><a href="meme.php" data-tooltip="ICC News & MeMe">ICC World Cup</a></li>
+          <li><a href="#" data-tooltip="coming soon">ICC World Cup</a></li>
       <li><a href="#" data-tooltip="coming soon">UEFA</a></li>
       <li><a href="#" data-tooltip="coming soon">La Liga</a></li>
       <li><a href="talk.php">Talk To Star Players</a></li>
@@ -25,22 +25,6 @@ require 'header.php';
   <!--left-->
   <div class="col-sm-3">
         <h2>Featured Comment</h2>
-            <div class="panel panel-default">
-          <div class="panel-heading">Mauka Ireland Ya Pakistan</div>
-          <div class="panel-body"><b>Arvind Kejriwal</b> : Dosto koi bhi rishwat dene ya lene aata hai to uski video bana lena...<br>
-                                   <b>maukamaukaofficial.com</b> : Bana li tongue emoticon<br>
-
-                            Ab ‪#‎IRELAND‬ ki baari
-                            kaun lega ‪#‎mauka‬ #Ireland ya ‪#‎Pakistan‬ ?
-                        Stay tuned for all action till 14th</div>
-        </div>
-        <hr>
-            <div class="panel panel-default">
-          <div class="panel-heading">Mauka Ireland Ya Pakistan</div>
-          <div class="panel-body"><b>Dhoni to Holder</b> : BC CSK ka hai na tu ?<br>
-                          <b>Holder</b> : Bhai sorry galti ho gayi bhai, maaf kar do, captain hu bhai isliye hi 50 maare the. Bhai Gayle to ko to jaldi bhej diya tha bhai. Bhai IPL me paani dene ke liye hi rakh lo.</div>
-        </div>
-        <hr>
           <div class="panel panel-default">
           <div class="panel-heading">MaukaMauka</div>
           <div class="panel-body">The ‘Mauka’ to beat India in the ICC Cricket World Cup 2015 has become an ‘Elusive Maukaa’ for the teams in Pool B. After India beat Pakistan, South Africa, and United Arab Emirates (UAE) in their first three encounters, it is now West Indies’ Mauka to try and beat India first time in the World Cup 2015.</div>
@@ -75,6 +59,8 @@ replied jab hamne banane hi sau run hai toh 400 run ki fielding kyo karen, yhi h
   
   <!--center-->
   <div class="col-sm-6">
+    <br>
+    
      <div class="row">
       <div class="col-xs-12">
         <h2>‘Mauka Mauka’ on IPL, Chris Gayle and India-WI clash.</h2>
@@ -144,6 +130,14 @@ Though Zimbabwe chased but they were all out at 215 and Pakistan won the match b
     </div>
     <hr> 
   </div><!--/center-->
+
+  <div class="col-sm-3">
+
+
+
+</div>
+
+ 
 
   <!--right-->
 <!--/right-->

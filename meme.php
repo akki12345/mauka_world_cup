@@ -24,9 +24,11 @@ require 'header.php';
 <section class="container">
   <div class="row">
 
+
 <!--  Start Left Section  col-md-9  -->
 
     <div class="col-md-9">
+
       <div class="main-content">
         <div class="col-md-12">
           <h4>New Memes And News Of ICC World Cup #MaukaMaukaofficial.com <small class="pull-right text-muted"> </small></h4>
@@ -479,6 +481,7 @@ require 'header.php';
 <p></p></div>
       </ul>
       <div class="">
+      <div class="col-md-3">
       </div>
     </div>
   </div>

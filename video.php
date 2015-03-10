@@ -11,7 +11,6 @@ require 'header.php';
       <li><a href="index.php">All</a></li>
 
        <li><a href="meme.php" data-tooltip="ICC News & MeMe">ICC World Cup</a></li>
-
       <li><a href="#" data-tooltip="coming soon">UEFA</a></li>
       <li><a href="#" data-tooltip="coming soon">La Liga</a></li>
       <li><a href="talk.php">Talk To Star Players</a></li>
@@ -36,6 +35,7 @@ require 'header.php';
 	<div class="heading6 container"><h1>MaukaMaukaOfficial Videos</h1></div>
 		<div id="frame"></div>
 		<div class="container content">
+		<div class="container content col-md-12">
 		<script type="text/javascript" src="js/ytv.js"></script>
 		<script>
 			window.onload = function(){
@@ -49,8 +49,16 @@ require 'header.php';
 		
 			};
 		</script>
+
             <br><br>
         </div>
+
+		<br>
+       <div class="col-md-2"></div>
+        
+         <div class="clear"></div>   
+        </div>
+     <br><br>
 	<?php
 require 'footer.php';
 ?>
