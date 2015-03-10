@@ -27,7 +27,10 @@
 <link rel="stylesheet" type="text/css" href="css/style3.css" />
 <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
 <link href="css/theme.css" type="text/css" rel="stylesheet">
+<<<<<<< HEAD
 <script src="js/modernizr.js"></script> 
+=======
+>>>>>>> b91a974c868f1ffee612e43ed7c105128f06771c
 
 </head>
 <body style="">
