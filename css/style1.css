@@ -26,6 +26,7 @@ Main components
   height: 40px;
   width: 40px;
   position: fixed;
+
   bottom: 40px;
   right: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
@@ -33,7 +34,7 @@ Main components
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: rgba(232, 98, 86, 0.8) url(../cup/arrow.png) no-repeat center 50%;
+  background: rgba(185, 173, 172, 0.8) url(../cup/arrow.png) no-repeat center 50%;
   visibility: hidden;
   opacity: 0;
   -webkit-transition: opacity .3s 0s, visibility 0s .3s;
@@ -55,7 +56,7 @@ Main components
   opacity: .5;
 }
 .no-touch .cd-top:hover {
-  background-color: #e86256;
+  background-color: #827978;
   opacity: 1;
 }
 @media only screen and (min-width: 768px) {
