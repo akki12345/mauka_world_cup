@@ -22,25 +22,31 @@ require 'header.php';
     <!-- Page Content -->
     <div class="container">
 
+
         <!-- Introduction Row -->
         <div class="col-md-12">
-        <div class="col-md-9">
-            
-
+        
                 <h1 class="page-header">About Us
                     
                 </h1>
-                <p><b>Mauka for every team to defeat India in ICC World Cup 2015. Support India and have fun this world cup.</b></p><p>"MaukaMauka" follows the the theme that every cricket team has a "mauka" a chance or an oppurtunity in hindi to win against the the indian cricket team but this so called oppurtunity belies what it implies ,highly popular among the fans of the india cricket team the phrase maukamauka from its inception in the TVC has been used to support their team cuch that other teams will keep getting maukas to win against india but will ultimately prove to be mediocre at best against india, </p>
-                <p>We, being india supporters are driving this campaign further on this here you'll find all the content related to the maukamauka campaign and indian cricket team be it news ,videos and yes ofcourse jokes ,you'll also find exclusive makukamauka merchandise on this website that's not all folks ,brace yourselves beacuse here comes the fun part ,you also get a platform here to interact with today's biggest and leading sport stars and ask them your queries and their opinions on cricket ,maukamauka and what not.</p>
-             <h1><small>It's Nice to Meet You!</small></h1>
-             </div>
 
-        </div>
+                <h4><p><b>Mauka for every team to defeat India in ICC World Cup 2015. Support India and have fun this world cup.</b></p></h4><br><h4><p>"MaukaMauka" follows the the theme that every cricket team has a "mauka" a chance or an oppurtunity in hindi to win against the the indian cricket team but this so called oppurtunity belies what it implies ,highly popular among the fans of the india cricket team the phrase maukamauka from its inception in the TVC has been used to support their team cuch that other teams will keep getting maukas to win against india but will ultimately prove to be mediocre at best against india, </h4></p>
+                <br><h4><p>We, being india supporters are driving this campaign further on this here you'll find all the content related to the maukamauka campaign and indian cricket team be it news ,videos and yes ofcourse jokes ,you'll also find exclusive makukamauka merchandise on this website that's not all folks ,brace yourselves beacuse here comes the fun part ,you also get a platform here to interact with today's biggest and leading sport stars and ask them your queries and their opinions on cricket ,maukamauka and what not.</p></h4>
+             <h1><small>It's Nice to Meet You!</small></h1>
+            
+        
+         </div>
+
+
+        
 
         <!-- Team Members Row -->
         
             <div class="col-md-12">
-            	<div class="col-md-9">
+
+            	
+            		
+
                 <h2 class="page-header">Our Team</h2>
             </iv>
             </div>
