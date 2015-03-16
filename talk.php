@@ -17,10 +17,6 @@ require 'header.php';
   </div>
 </div>
 </nav>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> b91a974c868f1ffee612e43ed7c105128f06771c
 <section class="container">
 <div class="row">
 <div class="col-md-12">
@@ -67,22 +63,12 @@ require 'header.php';
 <ul class="list-group">
 <li class="list-group-item"><strong>Rating:</strong> <span class="media-label">9.8</span></li>
 </ul>
-<<<<<<< HEAD
-=======
-=======
 <section class="container">
 <div class="row">
 <div class="col-md-12">
 <ol class="breadcrumb">
 <li><a href="index.php">Home</a></li>
->>>>>>> 19808a46f774973a8f21ef83bdd9cf7c78c8ca1d
->>>>>>> b91a974c868f1ffee612e43ed7c105128f06771c
-
 </div>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> b91a974c868f1ffee612e43ed7c105128f06771c
 </section>
 <br>
 

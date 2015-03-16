@@ -76,6 +76,10 @@
 	background-image: url(../images/6.jpg);
 	z-index: 10;
 }
+.ch-img-7 { 
+	background-image: url(../images/7.jpg);
+	z-index: 11;
+}
 
 .ch-info {
 	position: absolute;
