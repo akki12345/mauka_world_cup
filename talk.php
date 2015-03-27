@@ -109,6 +109,7 @@ require 'header.php';
 </section>
 <br>
 
+<<<<<<< HEAD
 
 <div class="col-md-2 sidebar-secondary">
 <div class="thumbnail">
@@ -148,6 +149,8 @@ require 'header.php';
 </ul>
 
 </div>
+=======
+>>>>>>> 42e106c39cb783ff662b8636695992fe1f5a6328
 
 
 <!--  ./ Left Section  col-md-9  -->
@@ -518,6 +521,8 @@ require 'header.php';
       <div class="blog-footer">
      
        <p>MaukaMaukaOfficial © 2015</p>        
+<<<<<<< HEAD
+=======
       </div>
     </div>
   </div>
@@ -556,6 +561,7 @@ require 'header.php';
       </div>
       <div class="blog-footer">
         <p>MaukaMaukaOfficial © 2015</p>
+>>>>>>> 42e106c39cb783ff662b8636695992fe1f5a6328
       </div>
     </div>
   </div>
@@ -563,6 +569,47 @@ require 'header.php';
 
 
 
+<<<<<<< HEAD
+
+<!-- Modal -->
+<div class="modal fade" id="success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="myModalLabel">Query Solved</h4>
+      </div>
+      <div class="modal-body">
+        <p><b><center><?php  
+  // connect to your MySQL database here 
+  require_once "config.php"; 
+  if(isset($_POST['submit']))  
+  // Build the sql command string
+  $submit = mysql_real_escape_string($_POST['submit']); 
+  // Execute the query here now 
+  $query = mysql_query("SELECT dialogs FROM ronaldo ORDER BY RAND() LIMIT 1") or die (mysql_error());  
+  // Output the data here using a while loop, the loop will return all members 
+  while ($row = mysql_fetch_array($query)) { 
+      // Gather all $row values into local variables for easier usage in output  
+        echo $row["dialogs"];  
+      // echo the output to browser or compound an output variables here 
+  } 
+  // close mysql connection 
+  mysql_close(); 
+  ?></center></p>
+  <a href="talk.php"><button type="button" data-toggle="modal"  class="btn btn-primary">Ask New Query</button></a>
+      </div>
+      <div class="blog-footer">
+        <p>MaukaMaukaOfficial © 2015</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+=======
+>>>>>>> 42e106c39cb783ff662b8636695992fe1f5a6328
 <!--  ./ Left Section  col-md-9  -->
 
 <!--  ./ row   --></section>
