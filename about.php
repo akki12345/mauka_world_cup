@@ -112,6 +112,15 @@ require 'header.php';
 							<div class="ch-thumb ch-img-6"></div>
 						</div>
 					</li>
+					<li>
+						<div class="ch-item">
+							<div class="ch-info">
+								<h3>Pawan Pal</h3>
+								<p><a href="https://www.facebook.com/pa1.pal?ref=br_rs">View on Facebook</a></p>
+							</div>
+							<div class="ch-thumb ch-img-7"></div>
+						</div>
+					</li>
 				</ul>
 				
 			</section>

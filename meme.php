@@ -93,6 +93,63 @@ require 'header.php';
             </div>
           </div>
         </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme21.jpg" alt="Lorem Ipsum">            
+
+            <div class="ts-overlay-panel  ts-overlay-background"><p>Talk To star players</p></div>
+                                    <a class="ts-position-cover" href="talk.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>kholi gaya tu</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme20.jpg" alt="Lorem Ipsum">            
+
+            <div class="ts-overlay-panel  ts-overlay-background"><p>Talk To star players</p></div>
+                                    <a class="ts-position-cover" href="talk.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>Mil Gyi Sabko Batting</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+
+            <div class="ts-overlay ts-overlay-hover">
+           
+           <img src="./cup/meme19.jpg" alt="Lorem Ipsum">            
+
+            <div class="ts-overlay-panel  ts-overlay-background"><p>Talk To star players</p></div>
+                                    <a class="ts-position-cover" href="talk.php"></a>
+
+            </div>
+            <div class="caption">
+              <h5><a>ab kuch nhi hoga</a></h5>
+              <ul class="list-unstyled">
+                <li>#MaukaMaukaofficial</li>
+              </ul>
+            </div>
+          </div>
+        </div>
        
        <div class="col-sm-6 col-md-3">
           <div class="thumbnail">
